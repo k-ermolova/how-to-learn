@@ -24,6 +24,7 @@
   font-size: 102px;
   font-weight: 600;
   width: 730px;
+  z-index: 2;
 }
 
 .header__subtitle {
@@ -34,6 +35,7 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  z-index: 2;
 }
 
 .header__link {
