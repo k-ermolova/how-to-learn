@@ -67,6 +67,7 @@
 }
 
 .logo {
+  background-image: url(/images/);
   width: 183px; 
   z-index: 1;
 }
@@ -76,6 +77,10 @@
   position: absolute;
   top: 30px;
   left: 64px;
+}
+
+.logo_place_footer {
+  height: 35px;
 }
 
 .content {
@@ -143,6 +148,13 @@
   width: 60%;
 }
 
+.section-title_theme_dark {
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+  color: white;
+}
+
 .section-subtitle {
   width: 60%;
   line-height: 34px;
@@ -152,6 +164,13 @@
   padding: 0;
   margin: 0;
   margin-top: 20px;
+}
+
+.section-subtitle_theme_dark {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  color: white;
 }
 
 .table {
@@ -171,11 +190,24 @@
   padding: 0;
 }
 
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
+  z-index: 1;
+}
 
 .table__heading {
   margin-top: 0;
   margin-bottom: 20px;
   padding: 0;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.table__heading_theme_dark {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
@@ -188,6 +220,12 @@
   margin-top: 20px;
   margin-bottom: 0;
   padding: 0;
+}
+
+.table__text_theme_dark {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
 }
 
 .feynman {
@@ -262,40 +300,6 @@
   z-index: 0;
 }
 
-.table__heading_theme_dark {
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: bold;
-}
-
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-  z-index: 1;
-}
-
-.table__text_theme_dark {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-}
-
-.section-title_theme_dark {
-  line-height: 1.15;
-  font-size: 60px;
-  font-weight: bold;
-  color: white;
-}
-
-.section-subtitle_theme_dark {
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  color: white;
-}
-
 .footer {
   padding-top: 60px;
   padding-bottom: 40px;
@@ -304,10 +308,6 @@
   display: flex;
   position: relative;
   justify-content: center;
-}
-
-.logo_place_footer {
-  height: 35px;
 }
 
 .footer__author {
