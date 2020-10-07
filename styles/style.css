@@ -22,7 +22,7 @@
   margin-left: 64px;
   line-height: 96px;
   font-size: 102px;
-  font-weight: 600;
+  font-weight: bold;
   width: 730px;
   z-index: 2;
 }
@@ -120,7 +120,7 @@
 }
 
 .two-columns__span-accent {
-  font-weight: 600;
+  font-weight: bold;
 }
 
 .digits {
@@ -138,7 +138,7 @@
   padding: 0;
   line-height: 1.15;
   font-size: 60px;
-  font-weight: 600;
+  font-weight: bold;
   text-align: center;
   width: 60%;
 }
@@ -178,7 +178,7 @@
   padding: 0;
   line-height: 1.15;
   font-size: 24px;
-  font-weight: 600;
+  font-weight: bold;
 }
 
 .table__text {
@@ -206,7 +206,7 @@
   text-align: center;
   line-height: 1.15;
   font-size: 120px;
-  font-weight: 600;
+  font-weight: bold;
   margin: 0 0 70px;
   z-index: 1;
 }
@@ -264,7 +264,7 @@
 .table__heading_theme_dark {
   line-height: 1.15;
   font-size: 24px;
-  font-weight: 600;
+  font-weight: bold;
 }
 
 .table__cell_theme_dark {
@@ -284,7 +284,7 @@
 .section-title_theme_dark {
   line-height: 1.15;
   font-size: 60px;
-  font-weight: 600;
+  font-weight: bold;
   color: white;
 }
 
@@ -360,7 +360,7 @@
   padding: 0;
   margin: 0 0 20px;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: bold;
 }
 
 .footer__column-links {
