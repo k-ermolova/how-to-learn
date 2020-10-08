@@ -149,6 +149,7 @@
   font-weight: bold;
   text-align: center;
   width: 60%;
+  z-index: 1;
 }
 
 .section-title_theme_dark {
