@@ -223,9 +223,6 @@
   font-weight: bold;
 }
 
-.table__heading_theme_dark {
-}
-
 .table__text {
   line-height: 1.2;
   font-size: 18px;
@@ -233,9 +230,6 @@
   margin-top: 20px;
   margin-bottom: 0;
   padding: 0;
-}
-
-.table__text_theme_dark {
 }
 
 .feynman {
