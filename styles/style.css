@@ -392,6 +392,7 @@
   right: -210px;
   background-size: cover;
   z-index: 0;
+  overflow: hidden;
 }
 
 .footer {
