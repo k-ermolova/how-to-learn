@@ -117,6 +117,7 @@
   margin: 0 auto;
   justify-content: space-between;
 }
+
 .two-columns__brief {
   align-self: flex-start;
   line-height: 1.2;
