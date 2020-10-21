@@ -34,7 +34,7 @@
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
-  width: 730px;
+  max-width: 730px;
   z-index: 2;
 }
 
@@ -42,7 +42,7 @@
   position: absolute;
   left: 64px;
   bottom: 30px;
-  width: 388px;
+  max-width: 388px;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
@@ -56,6 +56,8 @@
 
 .header__link:hover {
   color: black;
+  opacity: 70%;
+  transition: linear;
 }
 
 .header__main-illustration {
@@ -123,7 +125,7 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  width: 175px;
+  max-width: 175px;
   margin-top: 0;
   color: #2f80ed;
 }
@@ -265,7 +267,7 @@
 }
 
 .khan__quote {
-  width: 790px;
+  max-width: 790px;
   margin-top: 50px;
   margin-bottom: 36px;
   line-height: 34px;
@@ -409,7 +411,7 @@
 }
 
 .feynman__title {
-  width: 648px;
+  max-width: 648px;
   align-self: center;
   text-align: center;
   line-height: 1.15;
@@ -499,6 +501,11 @@
   justify-content: center;
   list-style: none;
 }
+
+.resources__logo:hover {
+  opacity: 70%;
+  transition: linear;
+}  
 
 .footer {
   padding-top: 60px;

@@ -6,3 +6,8 @@
     justify-content: center;
     list-style: none;
   }
+
+  .resources__logo:hover {
+    opacity: 70%;
+    transition: linear;
+  }  
