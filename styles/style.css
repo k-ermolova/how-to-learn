@@ -225,6 +225,10 @@
   margin: 50px auto 0 auto;
 }
 
+.video__iframe {
+  border: 0;
+}
+
 .video__iframe:nth-of-type(2n+1) {
   margin-right: 20px;
 }
