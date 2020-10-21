@@ -1,0 +1,11 @@
+.footer__column-links {
+    padding-left: 0;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    list-style: none;
+  }
+
+  .footer__column-links:nth-of-type(3n) {
+    margin-bottom: 16px;
+  }
