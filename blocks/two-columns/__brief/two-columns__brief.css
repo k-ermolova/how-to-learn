@@ -1,9 +1,9 @@
 .two-columns__brief {
-    align-self: flex-start;
-    line-height: 1.2;
-    font-size: 18px;
-    font-weight: normal;
-    max-width: 175px;
-    margin-top: 0;
-    color: #2f80ed;
-  }
+  align-self: flex-start;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  max-width: 175px;
+  margin-top: 0;
+  color: #2f80ed;
+}
