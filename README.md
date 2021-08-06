@@ -16,3 +16,8 @@
 
 1. `git clone https://github.com/k-ermolova/how-to-learn.git` | Скачать [ZIP-архив](https://github.com/k-ermolova/how-to-learn/archive/refs/heads/master.zip), распаковать
 2. Oткрыть файл `index.html` в браузере
+
+## Планы по доработке
+
+- Сделать адаптив
+- Разместить страницу на сервере
