@@ -14,5 +14,5 @@
 
 ## Как открыть
 
-1. `git clone https://github.com/k-ermolova/russian-travel.git` | Скачать [ZIP-архив](https://github.com/k-ermolova/russian-travel/archive/refs/heads/master.zip), распаковать
+1. `git clone https://github.com/k-ermolova/how-to-learn.git` | Скачать [ZIP-архив](https://github.com/k-ermolova/how-to-learn/archive/refs/heads/master.zip), распаковать
 2. Oткрыть файл `index.html` в браузере
